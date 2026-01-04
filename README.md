@@ -1,4 +1,4 @@
-# ANDL Demo - CI/CD Pipeline
+# ANDL Demo - CI/CD Pipeline & Advanced Calculator
 
 A minimal Node.js project used for ANDL PE demonstrations.
 
